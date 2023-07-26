@@ -1,0 +1,40 @@
+body{
+    background-color: orange;
+    height: 100%;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.container{
+    width: 800px;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+}
+
+#seconds, #tens{
+    font-size: 4em;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 19px 10px;
+    width: 240px;
+    margin: 10px;
+    outline: none;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+button:hover{
+    transition: all 0.5s ease-in-out;
+    background: white;
+    border: 1px solid white;
+    color: orange;
+}
+

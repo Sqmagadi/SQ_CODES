@@ -1,0 +1,2 @@
+php files will be tested from xampp/htdocs file directory/folder
+
