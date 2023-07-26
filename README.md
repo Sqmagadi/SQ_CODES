@@ -1,2 +1,2 @@
-# html_practice_repository
+# SQ_CODES
 MY CODE REPOSITORY
